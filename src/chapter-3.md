@@ -18,11 +18,6 @@ Managing and Responding to Cyber Incidents with AI-Enabled Incident Response and
 
 AI-enabled incident response and recovery involves using machine learning algorithms to detect and respond to cyber threats in real-time and recover from a cyber incident efficiently. This helps organizations quickly identify and mitigate potential security incidents before they become serious breaches and recover more quickly from a cyber incident.
 
-Best Practices for AI Applications in Cyber Defense
----------------------------------------------------
-
-To get the most out of AI for cyber defense, organizations should follow best practices such as selecting high-quality AI tools, providing adequate training on how to use them effectively, and conducting regular audits and evaluations to ensure that they are working as intended. It's also important to prioritize transparency, accountability, and diversity and inclusion principles when working with AI in cybersecurity.
-
 Conclusion
 ----------
 

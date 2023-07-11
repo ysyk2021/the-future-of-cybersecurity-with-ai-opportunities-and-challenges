@@ -18,11 +18,6 @@ Tools and Software for AI-Enabled Cyber Planning and Performance Tracking
 
 To get the most out of AI for cybersecurity, organizations can use tools and software that enable AI-enabled cyber planning and performance tracking. These tools can help organizations develop comprehensive cybersecurity strategies, track performance metrics, and evaluate the effectiveness of their cybersecurity programs.
 
-Best Practices for AI Technology in Cybersecurity
--------------------------------------------------
-
-To ensure that AI technology is used effectively in cybersecurity, organizations should follow best practices such as selecting high-quality AI tools, providing adequate training on how to use them effectively, and conducting regular audits and evaluations to ensure that they are working as intended. It's also important to prioritize transparency, accountability, and diversity and inclusion principles when working with AI in cybersecurity.
-
 Conclusion
 ----------
 
