@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Platforms for Cybersecurity Use Cases
-====================================================================================================================================
 
 AI has become an essential tool in the field of cybersecurity. In this chapter, we will explore different types of AI techniques and platforms that can be used for cybersecurity use cases.
 

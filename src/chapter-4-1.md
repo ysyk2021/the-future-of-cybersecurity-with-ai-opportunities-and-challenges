@@ -1,5 +1,3 @@
-Improving Compliance and Risk Management with AI-Enabled Governance, Risk Management, and Compliance (GRC) Systems
-==================================================================================================================================================================================
 
 Governance, risk management, and compliance (GRC) are essential components of cybersecurity governance. In this chapter, we will explore how AI-enabled GRC systems can improve compliance and risk management.
 

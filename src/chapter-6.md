@@ -1,5 +1,3 @@
-Chapter 6: Evaluating the Impact of AI on Cybersecurity
-=======================================================
 
 As AI becomes an increasingly important tool for cybersecurity, it's crucial to evaluate its impact and effectiveness. In this chapter, we'll explore how businesses can measure the benefits of AI-enabled cybersecurity and identify key performance metrics and goals for AI-enabled cyber defense and governance.
 

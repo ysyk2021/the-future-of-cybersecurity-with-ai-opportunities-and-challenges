@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Cybersecurity
-========================================================
 
 AI has become an essential tool in the field of cybersecurity. In this chapter, we will explore the basic principles and processes of AI algorithms and machine learning models for cyber threat detection and response, different types of AI techniques and platforms for cybersecurity use cases, and tools and software for AI-enabled cyber planning and performance tracking.
 

@@ -1,5 +1,3 @@
-Basic Principles and Processes of AI Algorithms and Machine Learning Models for Cyber Threat Detection and Response
-=============================================================================================================================================================================
 
 AI has become an essential tool in the field of cybersecurity. In this chapter, we will explore the basic principles and processes of AI algorithms and machine learning models for cyber threat detection and response.
 

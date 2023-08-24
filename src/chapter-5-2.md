@@ -1,5 +1,3 @@
-Overcoming Implementation Barriers and Resistance to Change with AI-Enabled Organizational Change Management and Training
-====================================================================================================================================================================
 
 The adoption of artificial intelligence (AI) in cybersecurity can present implementation barriers and resistance to change within an organization. In this chapter, we will explore how to overcome these challenges by leveraging AI-enabled organizational change management and training.
 

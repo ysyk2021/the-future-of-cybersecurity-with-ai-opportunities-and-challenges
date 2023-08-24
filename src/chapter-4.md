@@ -1,5 +1,3 @@
-Chapter 4: AI Applications and Techniques for Cyber Governance
-==============================================================
 
 Cyber governance is critical for organizations to protect their sensitive information and prevent cyber attacks. In this chapter, we will explore how AI can be leveraged to enhance cyber governance through improved compliance and risk management, enhanced identity and access management, and data protection.
 

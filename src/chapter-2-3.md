@@ -1,5 +1,3 @@
-Tools and Software for AI-Enabled Cyber Planning and Performance Tracking
-===================================================================================================================================
 
 AI has become an essential tool in the field of cybersecurity. In this chapter, we will explore tools and software that enable AI-enabled cyber planning and performance tracking.
 

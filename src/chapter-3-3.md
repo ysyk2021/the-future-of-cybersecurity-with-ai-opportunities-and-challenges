@@ -1,5 +1,3 @@
-Managing and Responding to Cyber Incidents with AI-Enabled Incident Response and Recovery
-======================================================================================================================================================
 
 Cyber incidents are a reality for organizations in today's digital landscape. In this chapter, we will explore how AI can be leveraged to enhance cyber defense through improved incident response and recovery.
 

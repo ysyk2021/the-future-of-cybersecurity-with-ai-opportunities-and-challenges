@@ -1,5 +1,3 @@
-Designing and Implementing Your Cybersecurity Plan with AI-Enabled Strategic Alignment and Resource Allocation
-=========================================================================================================================================================
 
 Designing and implementing a cybersecurity plan is crucial for organizations in today's digital landscape. In this chapter, we will explore how AI can be leveraged to enhance the strategic alignment and resource allocation of cybersecurity plans.
 

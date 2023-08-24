@@ -1,5 +1,3 @@
-Enhancing Identity and Access Management with AI-Enabled User Behavior Analytics and Authentication
-===================================================================================================================================================================
 
 Identity and access management is a critical component of cybersecurity, but traditional methods can be vulnerable to attacks. In this chapter, we will explore how AI-enabled user behavior analytics and authentication can enhance identity and access management and improve cybersecurity.
 

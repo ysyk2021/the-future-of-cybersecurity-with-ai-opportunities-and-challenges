@@ -1,5 +1,3 @@
-Chapter 5: Cybersecurity Strategy with AI
-=========================================
 
 Designing and implementing a cybersecurity plan is crucial for organizations in today's digital landscape. In this chapter, we will explore how AI can be leveraged to enhance cybersecurity strategy.
 
