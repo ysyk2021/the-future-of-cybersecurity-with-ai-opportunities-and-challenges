@@ -27,3 +27,4 @@
   - [Challenges and Risks of AI Adoption in Cyber Defense and Governance and How to Overcome Them](chapter-7-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
