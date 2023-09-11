@@ -1,5 +1,4 @@
-Chapter 3: Different Types of AI Techniques and Platforms for Cybersecurity Use Cases
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the diverse range of AI techniques and platforms used in cybersecurity. As the cybersecurity landscape continues to evolve, leveraging various AI methods is crucial for addressing an array of threats and challenges effectively.
 

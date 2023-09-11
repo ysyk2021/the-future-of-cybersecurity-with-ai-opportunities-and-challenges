@@ -1,5 +1,4 @@
-Chapter 7: Challenges and Risks of AI Adoption in Cyber Defense and Governance and How to Overcome Them
-=======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the various challenges and risks associated with the adoption of AI in cyber defense and governance. While AI offers significant opportunities for enhancing cybersecurity, it also presents unique challenges that organizations and governments must address to ensure the safe and effective use of AI technologies.
 

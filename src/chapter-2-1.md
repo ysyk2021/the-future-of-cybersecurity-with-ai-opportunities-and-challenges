@@ -1,5 +1,4 @@
-Chapter 1: Basic Principles and Processes of AI Algorithms and Machine Learning Models for Cyber Threat Detection and Response
-==============================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fundamental principles and processes of AI (Artificial Intelligence) algorithms and machine learning models for cyber threat detection and response. As the field of cybersecurity evolves rapidly, integrating AI into threat detection and response has become crucial. This chapter aims to provide readers with a solid foundation to understand how AI is applied to tackle cybersecurity challenges.
 

@@ -1,5 +1,4 @@
-Chapter 2: Tools and Software for AI-Enabled Cyber Planning and Performance Tracking
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the essential tools and software solutions that empower organizations to implement AI-enabled cyber planning and track the performance of their cybersecurity strategies. As AI continues to revolutionize the cybersecurity landscape, having the right technology at your disposal is paramount to staying ahead of evolving threats.
 

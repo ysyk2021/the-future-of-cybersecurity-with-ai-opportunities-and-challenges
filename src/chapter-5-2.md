@@ -1,5 +1,4 @@
-Chapter 6: Overcoming Implementation Barriers and Resistance to Change with AI-Enabled Organizational Change Management and Training
-====================================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies and best practices for overcoming implementation barriers and resistance to change when integrating AI into cybersecurity practices. Successful adoption of AI technologies requires more than just technical know-how; it necessitates a well-planned organizational change management approach and comprehensive training programs.
 

@@ -1,5 +1,4 @@
-Chapter 5: Measuring the Effectiveness and Benefits of AI-Enabled Cybersecurity for Business Performance and Growth
-===================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical aspect of measuring the effectiveness and benefits of AI-enabled cybersecurity solutions in the context of business performance and growth. As cyber threats continue to evolve in complexity and frequency, organizations are increasingly turning to AI as a powerful tool to enhance their cybersecurity posture. However, to justify the investment in AI-driven cybersecurity, it is imperative to establish clear metrics and methodologies for assessing its impact on overall business success.
 

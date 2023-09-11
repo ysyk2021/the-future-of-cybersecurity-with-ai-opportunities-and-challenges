@@ -1,5 +1,4 @@
-Chapter 8: Designing and Implementing Your Cybersecurity Plan with AI-Enabled Strategic Alignment and Resource Allocation
-=========================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial process of designing and implementing a cybersecurity plan that leverages AI technologies. Effective strategic alignment and resource allocation are essential to maximize the benefits of AI in cybersecurity while addressing the evolving threat landscape.
 

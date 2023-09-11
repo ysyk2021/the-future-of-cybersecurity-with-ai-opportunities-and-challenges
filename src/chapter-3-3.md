@@ -1,5 +1,4 @@
-Chapter 9: Managing and Responding to Cyber Incidents with AI-Enabled Incident Response and Recovery
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the critical aspects of managing and responding to cyber incidents with the aid of AI technologies. As cyber threats become more sophisticated, AI plays a pivotal role in enhancing incident detection, response, and recovery.
 

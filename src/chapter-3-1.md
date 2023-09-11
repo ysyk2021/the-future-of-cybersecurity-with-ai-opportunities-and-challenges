@@ -1,5 +1,4 @@
-Chapter 11: Detecting and Preventing Cyber Attacks with AI-Enabled Intrusion Detection and Prevention Systems
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the critical role of AI in detecting and preventing cyber attacks through advanced intrusion detection and prevention systems. As cyber threats continue to evolve, AI empowers organizations to proactively safeguard their digital assets.
 

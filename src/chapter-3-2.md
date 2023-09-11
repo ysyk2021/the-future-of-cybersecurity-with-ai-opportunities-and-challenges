@@ -1,5 +1,4 @@
-Chapter 10: Identifying and Mitigating Cyber Threats with AI-Enabled Threat Intelligence and Analysis
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the critical role of AI in identifying and mitigating cyber threats through advanced threat intelligence and analysis. As cyber threats become more complex, AI empowers organizations to proactively defend against them.
 
